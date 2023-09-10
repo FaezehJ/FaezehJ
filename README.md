@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FaezehJ. I am a librarian. Here's my MLIS ePortfolio: https://sites.google.com/view/mlisportfolio-faezehjahanshiri/Home
+- 👋 Hi, I’m @FaezehJ. I am a librarian => https://sites.google.com/view/mlisportfolio-faezehjahanshiri/mlis- eportfolio?authuser=0
 - 👀 I’m interested in computer science and coding for educational purposes.
-- 🌱 I’m currently learning Python for data science. 
-- 💞️ I’m looking to collaborate on visualizaing pandemic related data with python.
+- 🌱 I’m currently learning how to make my own AI model from scratch. 
+- 💞️ I’m about to start a three month bootcamp and looking forward to become a full-stack developer by December!
 - 📫 You can reach me by email: faeze.jahanshiri@gmail.com
 
 <!---
